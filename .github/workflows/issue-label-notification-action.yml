@@ -13,3 +13,4 @@ jobs:
              recipients: |
                   help wanted=@SMontiel
                   documentation=@SMontiel
+                  bug=@SMontiel
