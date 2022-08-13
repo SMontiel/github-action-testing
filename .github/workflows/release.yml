@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repo production branch
         uses: actions/checkout@v2.2.0
         with:
-          ref: master
+          ref: main
 
       - name: Build Changelog
         id: github_release
